@@ -8,5 +8,7 @@ This repository contains the official PyTorch implementation for FA-ViT. Note th
 - timm == 0.5.4
 - pytorch == 1.8.0
 
-## plan
-- [ ] 
+## planning schedule
+- [x] release evaluation code
+- [ ] release trained model
+- [ ] release training code
