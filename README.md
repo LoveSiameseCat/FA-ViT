@@ -9,4 +9,4 @@ This repository contains the official PyTorch implementation for FA-ViT. Note th
 - pytorch == 1.8.0
 
 ## plan
-"- [ ] "
+- [ ] 
