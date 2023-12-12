@@ -2,7 +2,7 @@
 
 
 ------
-This repository contains the official PyTorch implementation for FA-ViT.
+This repository contains the official PyTorch implementation for FA-ViT. I plan to release the code after the first round of review comments are returned ^v^.
 
 ------
 
